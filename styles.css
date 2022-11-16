@@ -1,0 +1,17 @@
+#headerNav {
+  color: white;
+  background-color: black;
+}
+#headerNav ul {
+  text-decoration: none;
+}
+#headerNav ul li {
+  list-style-type: none;
+  text-align: right;
+}
+#headerNav ul li a {
+  color: white;
+}
+#headerNav ul li a:hover {
+  color: green;
+}
